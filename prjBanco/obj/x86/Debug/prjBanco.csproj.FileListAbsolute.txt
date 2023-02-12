@@ -1,0 +1,148 @@
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmMenu.resources
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmSaque.resources
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Properties.Resources.resources
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csproj.GenerateResource.Cache
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\bin\Debug\prjBanco.exe
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\bin\Debug\prjBanco.pdb
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csprojResolveAssemblyReference.cache
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmMenu.resources
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmSaque.resources
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Properties.Resources.resources
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csproj.GenerateResource.Cache
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmDeposito.resources
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\bin\Debug\prjBanco.exe
+C:\Users\crist\Desktop\PC\Banco\prjBanco\prjBanco\bin\Debug\prjBanco.pdb
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csprojResolveAssemblyReference.cache
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmDeposito.resources
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Cliente.resources
+C:\Users\CLI\Desktop\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmConta.resources
+E:\ETE\PC\Banco\prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+E:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+E:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+F:\ETE\PC\Banco\prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+F:\ETE\PC\Banco\prjBanco\prjBanco\bin\Debug\prjBanco.exe
+F:\ETE\PC\Banco\prjBanco\prjBanco\bin\Debug\prjBanco.pdb
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csprojResolveAssemblyReference.cache
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Cliente.resources
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmMenu.resources
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmConta.resources
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmDeposito.resources
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmSaque.resources
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Properties.Resources.resources
+F:\ETE\PC\Banco\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csproj.GenerateResource.Cache
+C:\Users\CLI\Desktop\prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+C:\Users\CLI\Desktop\prjBanco\prjBanco\bin\Debug\prjBanco.exe
+C:\Users\CLI\Desktop\prjBanco\prjBanco\bin\Debug\prjBanco.pdb
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csprojResolveAssemblyReference.cache
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Cliente.resources
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmMenu.resources
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmConta.resources
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmDeposito.resources
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmSaque.resources
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Properties.Resources.resources
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csproj.GenerateResource.Cache
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\bin\Debug\prjBanco.exe
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\bin\Debug\prjBanco.pdb
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csprojResolveAssemblyReference.cache
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Cliente.resources
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmMenu.resources
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmConta.resources
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmDeposito.resources
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmSaque.resources
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Properties.Resources.resources
+E:\ETE\PC\Exemplo\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csproj.GenerateResource.Cache
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmRelClientes.resources
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.cache
+C:\Users\CLI\Desktop\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.compiled
+F:\ \prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+F:\ \prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+F:\ \prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+G:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+F:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+G:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.exe
+G:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.pdb
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csprojResolveAssemblyReference.cache
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Cliente.resources
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmMenu.resources
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmConta.resources
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmDeposito.resources
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmSaque.resources
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Properties.Resources.resources
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csproj.GenerateResource.Cache
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.cache
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.compiled
+G:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Saque_Notas.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+D:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.exe
+D:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.pdb
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csprojResolveAssemblyReference.cache
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Cliente.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmMenu.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmConta.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmDeposito.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmSaque.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Saque_Notas.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Properties.Resources.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csproj.GenerateResource.Cache
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.cache
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.compiled
+F:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.exe
+F:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.pdb
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csprojResolveAssemblyReference.cache
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Cliente.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmMenu.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmConta.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmDeposito.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmSaque.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Saque_Notas.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Properties.Resources.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csproj.GenerateResource.Cache
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.cache
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.compiled
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Rel_Cliente.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Rel_Conta.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Rel_Cliente.resources
+D:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_REL_CONTA.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.exe.config
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.exe
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.pdb
+E:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.exe
+E:\Pen drive _ backup\prjBanco\prjBanco\bin\Debug\prjBanco.pdb
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csprojResolveAssemblyReference.cache
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Cliente.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmMenu.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmConta.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmDeposito.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.frmSaque.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Rel_Cliente.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_REL_CONTA.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Saque_Notas.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Properties.Resources.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.csproj.GenerateResource.Cache
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.cache
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\RdlCompile.compiled
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Extrato_geral.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Con_Conta.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Con_Conta.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Extrato_geral.resources
+E:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_Con_movimenacao.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Con_Movimentacao.resources
+F:\Pen drive _ backup\prjBanco\prjBanco\obj\x86\Debug\prjBanco.Frm_consulta_cliente.resources
